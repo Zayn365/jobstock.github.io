@@ -77,7 +77,7 @@
          </div>
      </div>
      <div class="row copyright">
-         <p>ALl RIGHTS RESERVERD FOR JOBSTOCK©</p>
+         <p>All RIGHTS RESERVERD FOR JOBSTOCK©</p>
      </div>
  </footer>
  <!-- Scripts==================================================-->
